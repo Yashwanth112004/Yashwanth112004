@@ -54,6 +54,28 @@ I enjoy transforming LLMs into production-ready systems capable of planning, rea
 
 ---
 
+## 🚀 Core Expertise
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/LangGraph-black?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/LangChain-00A67E?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi"/>
+
+<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai"/>
+
+<img src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google"/>
+
+<img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql"/>
+
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker"/>
+
+</p>
+
 # 🚀 Currently Building
 
 ## 🧠 AgentSkillOS
@@ -219,18 +241,6 @@ LLM-powered news assistant that retrieves and summarizes real-time Sports and Fi
 - GitHub Actions
 - Git
 - Linux
-
----
-
-# 📈 GitHub Stats
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Yashwanth112004&show_icons=true&theme=tokyonight"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yashwanth112004&layout=compact&theme=tokyonight"/>
-
-</p>
 
 ---
 
