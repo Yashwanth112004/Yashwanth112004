@@ -54,28 +54,34 @@ I enjoy transforming LLMs into production-ready systems capable of planning, rea
 
 ---
 
-# 🔭 Currently Working On
+# 🚀 Currently Building
 
-### 🤖 Composio API Research Agent
+## 🧠 AgentSkillOS
 
-An intelligent multi-agent research system that automatically
+**An AI-powered Agentic Learning Platform that transforms static learning into an autonomous, personalized learning experience.**
 
-- Discovers APIs
-- Analyzes documentation
-- Extracts authentication methods
-- Identifies endpoints
-- Generates structured API reports
+AgentSkillOS leverages multi-agent orchestration to understand learners, generate adaptive learning paths, evaluate progress, and provide intelligent assistance through specialized AI agents.
 
-Tech
+### Core Features
 
-- LangGraph
-- OpenRouter
-- Firecrawl
-- Composio
-- Pydantic
-- FastAPI
+- 🤖 Multi-Agent Architecture
+- 🧠 Personalized Learning Paths
+- 📚 AI-Powered Skill Roadmaps
+- 🎯 Adaptive Assessments
+- 💬 Intelligent Learning Assistant
+- 📄 Document & Course Understanding
+- 🔍 Resource Discovery
+- 📊 Progress Analytics
+- 🛠️ Tool Calling & Workflow Automation
+- 🧠 Long-Term Learning Memory
+
+### Tech Stack
+
+`LangGraph` • `Python` • `FastAPI` • `OpenAI/Gemini` • `PostgreSQL` • `Pydantic AI` • `Docker`
 
 ---
+
+> **Vision:** Build an operating system for AI-native learning where autonomous agents collaborate to help learners acquire skills faster through personalized guidance, continuous evaluation, and intelligent automation.
 
 # 🌱 Currently Learning
 
