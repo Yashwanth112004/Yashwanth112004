@@ -1,281 +1,299 @@
 <div align="center">
 
-<h1 align="center">
-Hi, I'm Puligilla Yashwanth 👋
-</h1>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Puligilla%20Yashwanth&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Agentic%20AI%20Engineer%20%7C%20Building%20Systems%20That%20Think%20%26%20Act&descAlignY=58&descSize=16"/>
 
-<h3 align="center">
-🧠 Software Engineer • 🤖 AI Engineer • ⚡ Agentic AI Developer
-</h3>
+<br/>
 
-<p align="center">
-Building intelligent AI systems, autonomous agents, and production-ready LLM applications.
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2800&pause=900&color=61DAFB&center=true&vCenter=true&multiline=true&repeat=true&width=760&height=90&lines=Designing+Multi-Agent+Systems+that+Plan+%26+Reason;Turning+LLMs+into+Autonomous+Digital+Workers;Building+AgentSkillOS+%E2%80%94+the+OS+for+AI-Native+Learning;LangGraph+%2B+Python+%2B+FastAPI+%2B+Chaos+Engineering" alt="Typing SVG"/>
+</a>
 
-<p align="center">
+<br/>
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/status-shipping_agents-2c5364?style=for-the-badge&labelColor=0f2027"/>
+<img src="https://img.shields.io/badge/focus-multi--agent_systems-203a43?style=for-the-badge&labelColor=0f2027"/>
+<img src="https://img.shields.io/badge/mood-caffeinated-2c5364?style=for-the-badge&labelColor=0f2027"/>
 
-<img src="https://img.shields.io/badge/LangGraph-121212?style=for-the-badge"/>
+</div>
 
-<img src="https://img.shields.io/badge/LangChain-00A67E?style=for-the-badge"/>
+<br/>
 
-<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+<div align="center">
 
-<!-- <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/> -->
+```
+┌──────────────────────────────────────────────────────────────┐
+│  whoami                                                       │
+│  > Software Engineer building agentic AI systems that plan,   │
+│    reason, call tools, and actually get things done.          │
+└──────────────────────────────────────────────────────────────┘
+```
 
-<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
+</div>
 
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+<br/>
 
-</p>
-</p>
+## ⟡ About the Builder
+
+<img align="right" width="320" src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif"/>
+
+I build **agentic AI systems** — not chatbots, not wrappers. Systems that plan, remember, call tools, and coordinate with other agents to get real work done.
+
+Most days you'll find me deep in a LangGraph state machine, arguing with a memory layer, or trying to make an agent stop hallucinating its own tool schema.
+
+```yaml
+role: AI / Agentic Systems Engineer
+languages: [Python, TypeScript, Java, SQL]
+obsessed_with: [multi-agent orchestration, RAG, MCP, long-term memory]
+currently_shipping: AgentSkillOS
+currently_debugging: an agent that gaslights itself
+```
+
+<br clear="right"/>
+
+---
+
+## ⟡ Current Focus — AgentSkillOS
+
+<div align="center">
+
+**An agentic learning operating system** — where specialized AI agents collaborate to build personalized learning paths, evaluate progress, and mentor learners in real time.
+
+</div>
+
+<table align="center">
+<tr>
+<td width="50%" valign="top">
+
+**🧠 Core Capabilities**
+- Multi-agent orchestration
+- Adaptive skill roadmaps
+- AI-driven assessments
+- Long-term learning memory
+- Document & course understanding
+
+</td>
+<td width="50%" valign="top">
+
+**🛠 Under the Hood**
+- `LangGraph` orchestration layer
+- `FastAPI` service backbone
+- `PostgreSQL` for persistent memory
+- `Pydantic AI` structured outputs
+- `Docker` for reproducible ships
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+> *"Build an operating system for AI-native learning — where autonomous agents collaborate to help people acquire skills faster."*
+
+</div>
+
+<details>
+<summary align="center"><b>🌱 What I'm learning right now</b></summary>
+<br/>
+
+<div align="center">
+
+| Track | Focus |
+|---|---|
+| 🕸️ Orchestration | Advanced LangGraph, distributed agent systems |
+| 🔗 Protocols | MCP (Model Context Protocol) |
+| 🧠 Memory | Long-term agent memory architectures |
+| 📊 Evaluation | AI evals & agent benchmarks |
+| ✍️ Craft | Prompt engineering at scale |
+
+</div>
+
+</details>
+
+---
+
+## ⟡ Tech Arsenal
+
+<div align="center">
+
+**Languages**
+
+<img src="https://skillicons.dev/icons?i=python,java,typescript,javascript,postgres&theme=dark"/>
+
+**AI / GenAI Stack**
+
+![LangGraph](https://img.shields.io/badge/LangGraph-121212?style=for-the-badge)
+![LangChain](https://img.shields.io/badge/LangChain-00A67E?style=for-the-badge)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
+![Pydantic](https://img.shields.io/badge/Pydantic_AI-E92063?style=for-the-badge&logo=pydantic&logoColor=white)
+
+**Backend & Infra**
+
+<img src="https://skillicons.dev/icons?i=fastapi,flask,nodejs,docker,git,linux&theme=dark"/>
+
+**Frontend**
+
+<img src="https://skillicons.dev/icons?i=react,ts,tailwind,vite&theme=dark"/>
+
+**Databases**
+
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,sqlite&theme=dark"/>
 
 </div>
 
 ---
 
-# 🚀 About Me
+## ⟡ Engineering Philosophy
 
-I'm a software engineer focused on building **Agentic AI systems** powered by Large Language Models.
+<div align="center">
 
-My primary interests include:
+```
+if agent.confused():
+    agent.ask_for_tools()   # not vibes
+    agent.plan_again()      # not guess again
 
-- 🤖 AI Agents
-- 🧠 Multi-Agent Systems
-- ⚡ LLM Orchestration
-- 🛠️ Tool Calling
-- 🔗 MCP Servers
-- 📚 Retrieval-Augmented Generation (RAG)
-- 🧩 Workflow Automation
-- 📊 AI Evaluation
-- 🧠 Reasoning Systems
+principle = "an agent without memory is just a function with extra steps"
+```
 
-I enjoy transforming LLMs into production-ready systems capable of planning, reasoning, using external tools, and collaborating to solve complex tasks.
+</div>
 
----
-
-
-# 🚀 Currently Building
-
-## 🧠 AgentSkillOS
-
-**An AI-powered Agentic Learning Platform that transforms static learning into an autonomous, personalized learning experience.**
-
-AgentSkillOS leverages multi-agent orchestration to understand learners, generate adaptive learning paths, evaluate progress, and provide intelligent assistance through specialized AI agents.
-
-### Core Features
-
-- 🤖 Multi-Agent Architecture
-- 🧠 Personalized Learning Paths
-- 📚 AI-Powered Skill Roadmaps
-- 🎯 Adaptive Assessments
-- 💬 Intelligent Learning Assistant
-- 📄 Document & Course Understanding
-- 🔍 Resource Discovery
-- 📊 Progress Analytics
-- 🛠️ Tool Calling & Workflow Automation
-- 🧠 Long-Term Learning Memory
-
-### Tech Stack
-
-`LangGraph` • `Python` • `FastAPI` • `OpenAI/Gemini` • `PostgreSQL` • `Pydantic AI` • `Docker`
+<table align="center">
+<tr>
+<td align="center" width="25%">🧭<br/><b>Plan before act</b><br/><sub>reasoning over reflexes</sub></td>
+<td align="center" width="25%">🧩<br/><b>Tools over training</b><br/><sub>ground truth beats guesswork</sub></td>
+<td align="center" width="25%">🧠<br/><b>Memory is a feature</b><br/><sub>not an afterthought</sub></td>
+<td align="center" width="25%">🔁<br/><b>Evaluate everything</b><br/><sub>vibes don't scale</sub></td>
+</tr>
+</table>
 
 ---
 
-> **Vision:** Build an operating system for AI-native learning where autonomous agents collaborate to help learners acquire skills faster through personalized guidance, continuous evaluation, and intelligent automation.
+## ⟡ Project Showcase
 
-# 🌱 Currently Learning
+<table align="center" width="100%">
+<tr>
+<td width="50%" valign="top">
 
-- Advanced LangGraph
-- MCP (Model Context Protocol)
-- Multi-Agent Architectures
-- Long-Term Agent Memory
-- AI Evaluations
-- Prompt Engineering
-- Agent Benchmarks
-- Distributed AI Systems
+### 💰 Prospera AI · WealthOS
+AI-powered personal finance operating system.
+- AI financial assistant & insights
+- Automated expense tracking
+- Budget planning & investment tracking
 
----
+`Python` `LangGraph` `FastAPI`
 
-# 💼 Featured Projects
+</td>
+<td width="50%" valign="top">
 
-## 🤖 Composio API Research Agent
+### ♻️ CCOS · Circular Commerce OS
+Agentic platform cutting e-commerce returns via smart decisioning.
+- Digital Product Passport
+- Return intelligence engine
+- Sustainability analytics
 
-Multi-agent workflow that researches APIs using LangGraph, Firecrawl and Composio.
+`Multi-Agent` `Decision Engine`
 
-Features
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
+### 🔎 Composio API Research Agent
+Multi-agent workflow that autonomously researches and documents APIs.
 - Autonomous API discovery
-- Documentation crawling
-- Authentication detection
-- Endpoint extraction
+- Doc crawling via Firecrawl
 - Structured report generation
 
----
+`LangGraph` `Firecrawl` `Composio`
 
-## 💰 Prospera AI WealthOS
+</td>
+<td width="50%" valign="top">
 
-AI-powered personal finance operating system.
+### 📰 Sports & Finance AI Agent
+Real-time news assistant with specialized retrieval tools.
+- Live sports & finance summarization
+- Tool-routed retrieval
+- Concise, structured briefings
 
-Features
+`Tool Calling` `RAG`
 
-- AI Financial Assistant
-- Expense Management
-- Budget Planning
-- Investment Tracking
-- AI Insights
-- Financial Analytics
+</td>
+</tr>
+</table>
 
----
-
-## ♻️ Circular Commerce Operating System (CCOS)
-
-Agentic platform that reduces e-commerce returns through intelligent decision-making.
-
-Features
-
-- Digital Product Passport
-- Return Intelligence
-- Circular Commerce
-- AI Decision Engine
-- Sustainability Analytics
+<div align="center">
+<sub>More on <a href="https://github.com/Yashwanth112004?tab=repositories">GitHub →</a></sub>
+</div>
 
 ---
 
-## 📰 Sports & Finance AI Agent
+## ⟡ The Numbers
 
-LLM-powered news assistant that retrieves and summarizes real-time Sports and Finance news using specialized tools.
+<div align="center">
 
----
+<img height="165em" src="https://github-readme-stats.vercel.app/api?username=Yashwanth112004&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=61DAFB&icon_color=61DAFB&text_color=c9d1d9"/>
+<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yashwanth112004&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=61DAFB&text_color=c9d1d9"/>
 
-# ⚙️ Tech Stack
+<br/>
 
-## Languages
+<img src="https://streak-stats.demolab.com?user=Yashwanth112004&theme=tokyonight&hide_border=true&background=0D1117&ring=61DAFB&fire=61DAFB&currStreakLabel=61DAFB"/>
 
-- Python
-- Java
-- TypeScript
-- JavaScript
-- SQL
+<br/><br/>
 
----
+<img src="https://github-profile-trophy.vercel.app/?username=Yashwanth112004&theme=tokyonight&no-frame=true&no-bg=true&row=1&margin-w=15&column=6"/>
 
-## GenAI
+</div>
 
-- LangGraph
-- LangChain
-- OpenAI
-- OpenRouter
-- Gemini
-- Claude
-- Prompt Engineering
-- RAG
-- Function Calling
+<details>
+<summary align="center"><b>📈 Contribution Snake</b></summary>
 
----
+<div align="center">
 
-## AI Engineering
+<img src="https://raw.githubusercontent.com/Yashwanth112004/Yashwanth112004/output/github-contribution-grid-snake-dark.svg"/>
 
-- Agent Orchestration
-- Tool Calling
-- Multi-Agent Systems
-- Memory
-- Planning
-- Reasoning
-- Structured Outputs
-- Pydantic AI
+<sub>⚙️ Auto-generated via GitHub Actions — <a href="https://github.com/Platane/snk">setup guide</a></sub>
+
+</div>
+
+</details>
 
 ---
 
-## Backend
+## ⟡ Fun Facts
 
-- FastAPI
-- Flask
-- Node.js
-- Express
+<div align="center">
 
----
+<table>
+<tr>
+<td align="center">🕐<br/><sub>Best ideas hit at 1AM,<br/>shipped by 9AM</sub></td>
+<td align="center">🐛<br/><sub>Talks to agents<br/>more than humans some days</sub></td>
+<td align="center">☕<br/><sub>Runs on coffee<br/>and stack traces</sub></td>
+<td align="center">🧩<br/><sub>Believes every bug<br/>is a missing tool call</sub></td>
+</tr>
+</table>
 
-## Databases
-
-- PostgreSQL
-- MongoDB
-- MySQL
-- SQLite
-
----
-
-## Frontend
-
-- React
-- TypeScript
-- Tailwind CSS
-- Vite
-
----
-
-## DevOps
-
-- Docker
-- GitHub Actions
-- Git
-- Linux
-
----
-
-# 🔥 GitHub Streak
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=Yashwanth112004&theme=tokyonight"/>
-
-</p>
-
----
-
-# 🎯 What I'm Building
-
-I enjoy building intelligent systems capable of
-
-- Planning
-- Reasoning
-- Tool Usage
-- Autonomous Decision Making
-- Workflow Automation
-- Knowledge Retrieval
-- Human-AI Collaboration
-
----
-
-# 🎓 Interests
-
-- Agentic AI
-- Generative AI
-- LLM Infrastructure
-- AI Systems
-- Distributed Agents
-- AI Products
-- AI Startups
-- Open Source
-
----
-
-# 📫 Connect With Me
-
-🌐 Portfolio: https://yashwanthai.dev
-
-💼 LinkedIn: https://www.linkedin.com/in/yashwanth-puligilla/
-
-📧 Email: 2320900012@klh.edu.in
+</div>
 
 ---
 
 <div align="center">
 
-### "Building AI agents that don't just answer questions—they reason, act, and solve real-world problems."
+### ⟡ Let's Build Something Agentic
 
-⭐ Always learning.
-🚀 Always building.
-🤖 Always exploring the future of AI.
+<a href="https://yashwanthai.dev"><img src="https://img.shields.io/badge/Portfolio-2c5364?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/yashwanth-puligilla/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:2320900012@klh.edu.in"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+
+<br/><br/>
+
+> *"I don't just answer questions — I build systems that reason, act, and solve real problems."*
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=Yashwanth112004&style=for-the-badge&color=2c5364&label=PROFILE+VIEWS"/>
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=100&section=footer"/>
 
 </div>
