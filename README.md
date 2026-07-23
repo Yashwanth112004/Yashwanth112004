@@ -1,22 +1,33 @@
 <div align="center">
 
-# Hi, I'm Puligilla Yashwanth 👋
+<h1 align="center">
+Hi, I'm Puligilla Yashwanth 👋
+</h1>
 
-### 🤖 GenAI Engineer • Agentic AI Engineer • AI Systems Builder
+<h3 align="center">
+🧠 Software Engineer • 🤖 GenAI Engineer • ⚡ Agentic AI Engineer
+</h3>
 
-Building autonomous AI systems that reason, plan, use tools, and solve real-world problems.
+<p align="center">
+Building intelligent AI systems, autonomous agents, and production-ready LLM applications.
 
-<p>
-<a href="https://github.com/Yashwanth112004">
-<img src="https://img.shields.io/github/followers/Yashwanth112004?label=Followers&style=for-the-badge"/>
-</a>
+<p align="center">
 
-<a href="https://github.com/Yashwanth112004">
-<img src="https://img.shields.io/github/stars/Yashwanth112004?affiliations=OWNER&style=for-the-badge"/>
-</a>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 
-<img src="https://komarev.com/ghpvc/?username=Yashwanth112004&style=for-the-badge"/>
+<img src="https://img.shields.io/badge/LangGraph-121212?style=for-the-badge"/>
 
+<img src="https://img.shields.io/badge/LangChain-00A67E?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+
+</p>
 </p>
 
 </div>
