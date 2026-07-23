@@ -5,7 +5,7 @@ Hi, I'm Puligilla Yashwanth 👋
 </h1>
 
 <h3 align="center">
-🧠 Software Engineer • 🤖 GenAI Engineer • ⚡ Agentic AI Engineer
+🧠 Software Engineer • 🤖 AI Engineer • ⚡ Agentic AI Developer
 </h3>
 
 <p align="center">
