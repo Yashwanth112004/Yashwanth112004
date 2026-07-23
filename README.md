@@ -1,11 +1,12 @@
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,50:8B5CF6,100:EC4899&height=200&section=header&text=Puligilla%20Yashwanth&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Agentic%20AI%20Engineer%20%E2%80%A2%20Building%20Systems%20That%20Think%20%26%20Act&descAlignY=58&descSize=15" width="100%"/>
+
 <br/>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=A78BFA&background=0D111700&center=true&vCenter=true&multiline=true&repeat=true&width=780&height=100&lines=Designing+Multi-Agent+Systems+that+Plan+%26+Reason;Turning+LLMs+into+Autonomous+Digital+Workers;Building+AgentSkillOS+%E2%80%94+the+OS+for+AI-Native+Learning;LangGraph+%2B+Python+%2B+FastAPI+%2B+Chaos+Engineering">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=6D28D9&background=FFFFFF00&center=true&vCenter=true&multiline=true&repeat=true&width=780&height=100&lines=Designing+Multi-Agent+Systems+that+Plan+%26+Reason;Turning+LLMs+into+Autonomous+Digital+Workers;Building+AgentSkillOS+%E2%80%94+the+OS+for+AI-Native+Learning;" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=6D28D9&background=FFFFFF00&center=true&vCenter=true&multiline=true&repeat=true&width=780&height=100&lines=Designing+Multi-Agent+Systems+that+Plan+%26+Reason;Turning+LLMs+into+Autonomous+Digital+Workers;Building+AgentSkillOS+%E2%80%94+the+OS+for+AI-Native+Learning;LangGraph+%2B+Python+%2B+FastAPI+%2B+Chaos+Engineering" alt="Typing SVG"/>
 </picture>
 
 <br/><br/>
@@ -243,8 +244,8 @@ Real-time news assistant with specialized retrieval tools.
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Yashwanth112004&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=A78BFA&text_color=C9D1D9&ring_color=6366F1" alt="GitHub stats"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yashwanth112004&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9" alt="Top languages"/>
+<img height="165" src="https://github-stats-extended.vercel.app/api?username=Yashwanth112004&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=A78BFA&text_color=C9D1D9&ring_color=6366F1" alt="GitHub stats"/>
+<img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Yashwanth112004&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9" alt="Top languages"/>
 
 <br/><br/>
 
@@ -256,7 +257,7 @@ Real-time news assistant with specialized retrieval tools.
 
 </div>
 
-> **Note:** the trophy and streak cards are live services (`vercel.app` / `demolab.com`) — if any card shows a broken icon in your browser, it's almost always a temporary rate-limit on their end, not a dead link. Refresh after a minute and it resolves.
+> **Why the stats card changed hosts:** the original `github-readme-stats.vercel.app` public instance has been paused by its maintainers since Jan 2026 (`503 DEPLOYMENT_PAUSED`) — this broke that card on thousands of profiles, not just yours. The maintainers now officially point people to **[GitHub Stats Extended](https://github.com/stats-organization/github-stats-extended)**, which uses the exact same parameters, so I switched both cards above to `github-stats-extended.vercel.app`. The trophy and streak cards run on separate, currently-live infrastructure — if one of those ever shows a broken icon, it's a brief rate-limit, not a dead service; refresh after a minute.
 
 <details>
 <summary><b>🐍 Contribution Snake</b></summary>
