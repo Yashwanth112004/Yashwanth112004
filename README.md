@@ -3,199 +3,468 @@
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:6366F1,50:8B5CF6,100:EC4899&text=Puligilla%20Yashwanth&fontColor=ffffff&fontSize=44&animation=fadeIn&desc=Agentic%20AI%20Engineer%20•%20Building%20Autonomous%20Systems&descAlignY=63"/>
+### Agentic AI Engineer · Backend Engineer · AI Systems Builder
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1200&color=A78BFA&center=true&vCenter=true&width=900&lines=Building+Production+AI+Agents;LangGraph+%7C+FastAPI+%7C+Python+%7C+MCP;Planning+%E2%86%92+Reasoning+%E2%86%92+Tool+Calling+%E2%86%92+Memory)](https://git.io/typing-svg)
+**Building intelligent systems that reason, use tools, interact with data, and solve real engineering problems.**
 
-![](https://img.shields.io/badge/Focus-Agentic_AI-8B5CF6?style=for-the-badge)
-![](https://img.shields.io/badge/Open_to-Collaborate-6366F1?style=for-the-badge)
-![](https://img.shields.io/badge/Currently-Building_AgentSkillOS-EC4899?style=for-the-badge)
+<p>
+  <a href="https://yashwanthai.dev">
+    <img src="https://img.shields.io/badge/Portfolio-yashwanthai.dev-6366F1?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+  <a href="https://github.com/Yashwanth112004">
+    <img src="https://img.shields.io/badge/GitHub-Yashwanth112004-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/yashwanth-puligilla/">
+    <img src="https://img.shields.io/badge/LinkedIn-Yashwanth%20Puligilla-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
 
 </div>
 
 ---
 
-# 🧠 AI Dashboard
+## 👋 About Me
 
-| Status | Value |
-|---------|-------|
-| 🚀 Current Project | AgentSkillOS |
-| 🧠 Specialization | Agentic AI |
-| ⚡ Backend | FastAPI |
-| 🔄 Orchestration | LangGraph |
-| 💾 Database | PostgreSQL |
-| 🐳 Deployment | Docker |
-| 📚 Learning | MCP · AI Evals · Multi-Agent |
+I'm **Puligilla Yashwanth**, an AI and software engineering enthusiast focused on building **agentic systems, intelligent developer tools, backend platforms, and AI-powered applications**.
 
----
+My work sits at the intersection of:
 
-# 👨‍💻 About Me
+* 🤖 **Agentic AI & LLM Applications**
+* 🧠 **Multi-Agent Systems**
+* 🔄 **Agent Orchestration & Tool Calling**
+* 🔌 **MCP & AI Tool Integration**
+* ⚙️ **Backend Engineering**
+* 🗄️ **Distributed Data & APIs**
+* 🔐 **Security & Privacy**
+* ⛓️ **Blockchain & Decentralized Systems**
 
-I build **AI systems that plan, reason, remember, call tools and complete real-world tasks.**
-
-My current focus is building **AgentSkillOS**, an AI-native learning operating system powered by autonomous agents.
+I enjoy taking an idea from **architecture → implementation → integration → deployment**, rather than building isolated AI demos.
 
 ---
 
-# 🏗 Multi-Agent Architecture
+# 🚀 What I'm Building
+
+## 🔍 Workspace Intelligence Agent — WIA
+
+**An AI-powered developer intelligence platform for understanding and analyzing software repositories.**
+
+WIA is designed to act as an intelligent layer over a codebase, helping developers understand repository structure, dependencies, relationships, and potential engineering conflicts.
+
+### Core capabilities
+
+* 🧠 AI-powered repository intelligence
+* 🔍 Codebase and repository analysis
+* 📦 Dependency analysis and management
+* ⚠️ Dependency / configuration conflict detection
+* 🗂️ Repository structure understanding
+* 🔄 Intelligent developer workflows
+* 🤖 AI-assisted engineering analysis
+* 🔌 Agent and tool integration
+* 🧩 Designed for future VS Code integration
+
+### Architecture
 
 ```mermaid
-graph TD
+flowchart LR
 
-User --> Planner
-Planner --> Memory
-Planner --> ToolRouter
-Planner --> Evaluator
+    U[Developer]
 
-ToolRouter --> Search
-ToolRouter --> MCP
-ToolRouter --> Database
-ToolRouter --> APIs
+    U --> UI[WIA Interface]
 
-Evaluator --> Planner
-Planner --> Executor
-Executor --> Response
+    UI --> API[FastAPI Backend]
+
+    API --> ORCH[Agent Orchestrator]
+
+    ORCH --> REPO[Repository Analyzer]
+    ORCH --> DEP[Dependency Analyzer]
+    ORCH --> CONFLICT[Conflict Detector]
+    ORCH --> AI[LLM Reasoning Layer]
+
+    REPO --> DATA[Repository Intelligence]
+    DEP --> DATA
+    CONFLICT --> DATA
+
+    DATA --> DB[(Knowledge / Metadata Store)]
+
+    AI --> TOOLS[Tools & External Services]
+    TOOLS --> RESULT[Engineering Insights]
+
+    RESULT --> UI
 ```
 
----
+### Focus
 
-# 🚀 Featured Projects
+> Turning a software repository into an **intelligent, queryable engineering workspace**.
 
-## 🤖 AgentSkillOS
-- Multi-agent orchestration
-- Personalized learning
-- Long-term memory
-- LangGraph workflows
-- FastAPI backend
+**Stack:** Python · FastAPI · AI/LLMs · Agentic Workflows · PostgreSQL · Docker
 
 ---
 
-## 💰 Prospera AI
-AI-powered Wealth Operating System
+# 🛡️ OjasRaksha
 
-- Financial assistant
-- Budget analytics
-- Portfolio insights
+## Decentralized Healthcare Data & Consent Platform
 
----
+**OjasRaksha** is a privacy-focused healthcare platform designed around decentralized identity, consent management, secure medical records, and interoperability.
 
-## ♻️ CCOS
-Circular Commerce Operating System
+Built using **Hedera Hashgraph and IPFS**, the system explores how healthcare data can remain private while still providing verifiable consent and integrity.
 
-- Digital Product Passport
-- Return Intelligence
-- Sustainability Analytics
+### Key capabilities
 
----
+* 🏥 Healthcare record management
+* 🔐 Zero-trust security architecture
+* 🔑 Fine-grained RBAC
+* 🧾 Patient consent management
+* ⛓️ Hedera Consensus Service
+* 📦 IPFS-based decentralized storage
+* 🔒 AES-256-GCM encryption
+* #️⃣ SHA-256 integrity verification
+* 🩺 HL7 FHIR R4 interoperability
+* 🏷️ ICD-10 classification
+* 📜 DPDP Act 2023-oriented architecture
+* 🔐 HashiCorp Vault Transit Engine
+* 📊 Cryptographic and transaction benchmarking
 
-## 🔍 Composio API Research Agent
+### Architecture
 
-- Autonomous API discovery
-- Firecrawl integration
-- Structured documentation
+```mermaid
+flowchart TD
 
----
+    Patient[Patient / User]
+    Doctor[Healthcare Provider]
+    App[OjasRaksha Application]
 
-# 🛠 Tech Stack
+    Patient --> App
+    Doctor --> App
 
-## Languages
+    App --> Auth[Identity & RBAC]
+    App --> Consent[Consent Engine]
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=python,java,typescript,javascript,sql"/>
-</p>
+    App --> Encrypt[AES-256-GCM Encryption]
 
-## AI & Backend
+    Encrypt --> IPFS[Pinata IPFS]
+    Consent --> HCS[Hedera Consensus Service]
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=fastapi,docker,postgres,mongodb,git,linux"/>
-</p>
+    App --> FHIR[HL7 FHIR R4 Layer]
+    FHIR --> ICD[ICD-10 Classification]
 
-### AI Libraries
+    Vault[HashiCorp Vault Transit] --> Encrypt
 
-- LangGraph
-- LangChain
-- OpenAI
-- Gemini
-- PydanticAI
-
----
-
-# 📊 GitHub Analytics
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Yashwanth112004&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yashwanth112004&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=Yashwanth112004&theme=tokyonight&hide_border=true"/>
-</p>
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Yashwanth112004&theme=tokyo-night"/>
-</p>
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Yashwanth112004&theme=tokyonight&no-frame=true&row=1&column=6"/>
-</p>
-
----
-
-# 💭 Engineering Principles
-
-```python
-while building_agents:
-    plan()
-    use_tools()
-    remember()
-    evaluate()
-    improve()
+    HCS --> Audit[Verifiable Consent / Audit Trail]
+    IPFS --> Records[Encrypted Medical Records]
 ```
 
-> "An autonomous agent is more than an LLM—it is planning, memory, tools, and evaluation working together."
+### Experimental measurements
+
+| Measurement                 |     Result |
+| --------------------------- | ---------: |
+| Average Transaction Latency | **2.12 s** |
+| Consent Grant Latency       | **2.42 s** |
+
+The project also includes a synthetic clinical and cryptographic test dataset based around **FHIR R4, WHO ICD-10-CM, and DPDP Act 2023 requirements**.
+
+**Stack:** Hedera Hashgraph · IPFS · Pinata · FHIR R4 · AES-256-GCM · HashiCorp Vault · RBAC
 
 ---
 
-# 📈 2026 Roadmap
+# 💰 Prospera
 
-- ✅ LangGraph
-- ✅ FastAPI
-- ✅ Docker
-- ✅ PostgreSQL
-- ✅ Multi-Agent Systems
-- 🔄 MCP
-- 🔄 AI Evaluations
-- 🎯 Distributed Agents
+## AI-Powered Wealth Operating System
+
+Prospera is an AI-powered personal finance platform designed to combine **financial management, analytics, AI assistance, and simulation** into a single system.
+
+### Features
+
+* 💳 Expense management
+* 📊 Budget analytics
+* 📈 Investment insights
+* 🤖 AI Financial Copilot
+* 🧠 LLM-powered financial assistants
+* 🧬 Digital Twin simulations
+* 📄 OCR-based document processing
+* 🔐 JWT authentication
+* 🔒 AES-256 encryption
+* 📱 Mobile application
+* 🗄️ PostgreSQL-backed architecture
+
+### AI Layer
+
+```text
+User
+  ↓
+Financial Context
+  ↓
+AI Copilot
+  ↓
+LLM Reasoning
+  ↓
+Financial Tools
+  ├── Expenses
+  ├── Budgets
+  ├── Investments
+  └── Simulations
+  ↓
+Actionable Insights
+```
+
+**Stack:** React · TypeScript · Node.js · PostgreSQL · OpenAI · LangChain · JWT · OCR
 
 ---
 
-# 🤝 Connect
+# ♻️ Circular Commerce Operating System — CCOS
 
-<p align="center">
+A technology platform focused on improving the economics and sustainability of **e-commerce returns**.
+
+Instead of treating a returned product as waste, CCOS attempts to determine its **next-best lifecycle**.
+
+### Core components
+
+#### Return Intent Predictor
+
+Predicts the likelihood of a customer returning a product using signals such as:
+
+* Customer history
+* Product category
+* Price
+* Browsing behavior
+* Purchase context
+
+#### Next Best Owner Engine
+
+Determines potential next owners for returned products using product and customer signals.
+
+### Platform capabilities
+
+* 📦 Digital Product Passport
+* 🔄 Return intelligence
+* 🤖 Resale intelligence
+* 🧠 Product lifecycle intelligence
+* 🌱 Sustainability analytics
+* 💳 Digital wallet concepts
+* 🪪 Product identity / twin concepts
+* 📊 Circular commerce command center
+
+### Conceptual flow
+
+```mermaid
+flowchart LR
+
+    Purchase[Product Purchase]
+
+    Purchase --> Passport[Digital Product Passport]
+
+    Passport --> Usage[Product Lifecycle]
+
+    Usage --> Return[Return]
+
+    Return --> RIP[Return Intent Predictor]
+
+    RIP --> Inspection[Product Assessment]
+
+    Inspection --> NBO[Next Best Owner Engine]
+
+    NBO --> Resale[Resale]
+    NBO --> Donation[Donation]
+    NBO --> Recycle[Recycling]
+
+    Resale --> Circular[Circular Lifecycle]
+    Donation --> Circular
+    Recycle --> Circular
+```
+
+**Focus:** Circular Economy · AI Decision Systems · Product Intelligence · Sustainability
+
+---
+
+# 🤖 Agentic AI & AI Systems
+
+My current technical interests include building AI systems that go beyond simple prompt → response workflows.
+
+### Areas I'm working with
+
+```text
+LLM
+ │
+ ├── Planning
+ ├── Reasoning
+ ├── Tool Calling
+ ├── Memory
+ ├── Retrieval
+ ├── Multi-Agent Coordination
+ ├── Evaluation
+ └── External APIs
+```
+
+### Technologies
+
+* **LangGraph**
+* **LangChain**
+* **OpenAI API**
+* **Gemini API**
+* **OpenRouter**
+* **MCP**
+* **PydanticAI**
+* **FastAPI**
+* **PostgreSQL**
+
+I'm particularly interested in:
+
+* Agent orchestration
+* Stateful workflows
+* Tool-use agents
+* Multi-agent architectures
+* Agent evaluation
+* MCP servers
+* Reliable AI systems
+* AI developer tools
+
+---
+
+# 🧪 Other AI Work
+
+### Composio API Research Agent
+
+An experimental agent focused on autonomous API discovery and structured documentation workflows.
+
+**Explored:**
+
+* API discovery
+* Tool selection
+* Firecrawl integration
+* Documentation extraction
+* Structured API information
+* Agent-driven research workflows
+
+---
+
+# 💼 Experience
+
+### Accenture — Associate Software Engineer Intern
+
+**May 2026 – July 2026**
+
+Worked on **Prospera**, an AI-powered financial platform.
+
+Worked with:
+
+* React.js
+* TypeScript
+* Node.js
+* PostgreSQL
+* Generative AI
+* AI assistants
+* Financial workflows
+* PowerApps
+* Power Automate
+
+Also explored concepts around:
+
+* Agentic AI
+* MCP
+* AI orchestration
+* Generative AI
+* Enterprise automation
+
+---
+
+# 🛠️ Technical Stack
+
+<div align="center">
+
+### Languages
+
+<img src="https://skillicons.dev/icons?i=python,java,c,typescript,javascript,sql" />
+
+### Backend & Frameworks
+
+<img src="https://skillicons.dev/icons?i=fastapi,nodejs,spring,flask,react" />
+
+### AI / Agentic AI
+
+<img src="https://skillicons.dev/icons?i=python" />
+
+**LangGraph · LangChain · OpenAI · Gemini · OpenRouter · PydanticAI · MCP**
+
+### Databases
+
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,sqlite" />
+
+### DevOps & Engineering
+
+<img src="https://skillicons.dev/icons?i=docker,git,githubactions,jenkins,linux,bash" />
+
+</div>
+
+---
+
+# 🏗️ Engineering Interests
+
+```text
+Agentic AI
+    ↓
+Multi-Agent Systems
+    ↓
+Tool Calling & MCP
+    ↓
+Reliable Backend Systems
+    ↓
+Distributed Data
+    ↓
+AI Developer Infrastructure
+```
+
+I'm especially interested in the engineering problems behind AI systems:
+
+* How agents maintain state
+* How tools are selected and executed
+* How agents recover from failures
+* How multi-agent systems coordinate
+* How AI systems are evaluated
+* How AI applications scale
+* How to make autonomous workflows reliable
+* How AI can improve developer productivity
+
+---
+
+# 📚 Currently Exploring
+
+* MCP server architecture
+* Agent evaluation
+* Multi-agent orchestration
+* AI developer tools
+* Distributed agent systems
+* LLM application architecture
+* Reliable tool-calling systems
+* Production AI infrastructure
+
+---
+
+# 🔗 Connect
+
+<div align="center">
 
 <a href="https://yashwanthai.dev">
-<img src="https://img.shields.io/badge/Portfolio-Visit-6366F1?style=for-the-badge&logo=vercel"/>
+<img src="https://img.shields.io/badge/🌐%20Portfolio-yashwanthai.dev-6366F1?style=for-the-badge" />
 </a>
 
 <a href="https://github.com/Yashwanth112004">
-<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/GitHub-Yashwanth112004-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 <a href="https://www.linkedin.com/in/yashwanth-puligilla/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin"/>
+<img src="https://img.shields.io/badge/LinkedIn-Yashwanth%20Puligilla-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
-</p>
+</div>
 
 ---
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=Yashwanth112004&style=for-the-badge"/>
+### Building AI systems that are useful beyond the chat window.
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:EC4899,50:8B5CF6,100:6366F1"/>
+**Agentic AI · Backend Engineering · Developer Intelligence · Decentralized Systems**
+
+</div>
+
 
 </div>
