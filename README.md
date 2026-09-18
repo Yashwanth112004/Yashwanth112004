@@ -96,7 +96,7 @@ flowchart LR
 
 > Turning a software repository into an **intelligent, queryable engineering workspace**.
 
-**Stack:** Python · FastAPI · AI/LLMs · Agentic Workflows · PostgreSQL · Docker
+**Stack:** Python · FastAPI · AI/LLMs · Agentic Workflows · PostgreSQL · Docker · ScyllaDB
 
 ---
 
